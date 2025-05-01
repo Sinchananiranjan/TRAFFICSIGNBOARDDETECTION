@@ -1,0 +1,7 @@
+train: C:\Users\91895\Desktop\cloneyolo\siya\images\train
+val: C:\Users\91895\Desktop\cloneyolo\siya\images\val
+
+
+nc: 8
+names: ['hindileft', 'hindiright', 'hindistop', 'kannadaright', 'kannadastop', 'kannadleft', 'speed60', 'speed70']
+
