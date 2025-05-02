@@ -1,4 +1,5 @@
-MULTI LINGUAL TRAFFIC SIGN BOARD DETECTION
+MULTI LINGUAL TRAFFIC SIGN BOARD DETECTION.
+
 🚦 Traffic Sign Board Detection Using Deep Learning
 This project focuses on detecting traffic signboards using a deep learning-based object detection approach. It is designed to aid autonomous vehicle systems and smart traffic management by recognizing traffic signs in real-time.
 
