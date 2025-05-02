@@ -8,7 +8,7 @@ Traffic sign detection is a critical component in the development of autonomous 
 
 🧠 Technologies Used
 Python
-YOLOv5 (added as a Git submodule)
+YOLOv5 ([added as a Git submodule](https://github.com/ultralytics/yolov5))
 OpenCV
 PyTorch
 Roboflow  (for annotation)
