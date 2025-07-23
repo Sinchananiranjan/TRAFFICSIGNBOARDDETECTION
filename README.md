@@ -39,7 +39,7 @@ data.yaml configuration file
 bash
 Copy
 Edit
-git clone --recurse-submodules https://github.com/yourusername/traffic-sign-detection.git
+git clone --recurse-submodules [https://github.com/yourusername/traffic-sign-detection.git](https://github.com/Sinchananiranjan/TRAFFICSIGNBOARDDETECTION.git)
 cd traffic-sign-detection
 ⚠️ Make sure to use --recurse-submodules to include the YOLOv5 model.
 
