@@ -91,4 +91,4 @@ Use an already trained model for testing:
 bash
 
 python yolov5/detect.py --weights yolov5/runs/train/exp/weights/best.pt --img 640 --source test_image/
-📁 Place your test images or videos inside the test_image/ directory.
+
